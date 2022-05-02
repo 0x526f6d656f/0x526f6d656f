@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 I’m currently learning Java, Python, Selenium
+🌱 I’m currently learning Java, Python, Selenium\
 📫 How to reach me: <maier.romeo@gmail.com>
 
 ## 🌐Socials
